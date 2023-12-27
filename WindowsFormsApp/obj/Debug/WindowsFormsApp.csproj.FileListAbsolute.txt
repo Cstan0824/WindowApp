@@ -1,0 +1,10 @@
+C:\Users\PREDATOR\source\repos\C#Learn\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+C:\Users\PREDATOR\source\repos\C#Learn\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+C:\Users\PREDATOR\source\repos\C#Learn\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+C:\Users\PREDATOR\source\repos\C#Learn\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\PREDATOR\source\repos\C#Learn\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+C:\Users\PREDATOR\source\repos\C#Learn\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\PREDATOR\source\repos\C#Learn\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\PREDATOR\source\repos\C#Learn\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+C:\Users\PREDATOR\source\repos\C#Learn\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+C:\Users\PREDATOR\source\repos\C#Learn\WindowsFormsApp\obj\Debug\WindowsFormsApp.Forms.resources
